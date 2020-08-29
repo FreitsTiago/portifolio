@@ -1,0 +1,170 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.foto-perfil {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.corPrimaria{
+    background-color: #131313;
+}
+.corSecundaria {
+    background-color: rgb(0, 0, 0);
+
+}
+
+.corTerciaria{
+    background-color: #2c2c2c;
+}
+
+.corQuatro{
+    background-color: #FF3C3C;
+}
+
+.ftperfil h1{
+ color: white;
+}
+
+.ftperfil p{
+    color: rgb(209, 209, 209);
+   }
+
+p{
+    color: black;
+}
+
+.icones {
+    padding-left:5px;
+}
+
+body{
+    background-color: #2c2c2c;
+}
+
+.textobranco{
+    color:white;
+}
+
+.textocinzinha{
+    color: rgb(209, 209, 209);
+}
+
+.textovermelho{
+    color: #FF3C3C;
+}
+
+.textopreto{
+    color: #000000;
+}
+
+.textoverde{
+    color: #28a745;
+}
+
+.espaco20px{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.myfooter{
+    padding-top: 20px;
+    padding-bottom: 1px;
+}
+
+.barraLaranja{
+    background-color: #fd7e14;
+}
+
+.barraAzul{
+    background-color: #007bff;
+}
+
+.barraAmarela{
+    background-color: #ffc107;
+}
+
+.barraVerde{
+    background-color: #28a745;
+}
+
+.barraCinza{
+    background-color: #2c2c2c;
+}
+
+.statusmsg{
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+.statuscontent{
+    background-color: #000000;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 500px;
+}
+
+.textocntt{
+    color: #FFFFFF;
+}
+
+.textocntt:hover{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.linkctt{
+    color:#fc6666;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.linkctt:hover{
+    color:#FF3C3C;
+    text-decoration: none;
+}
+
+.icosocial{
+    color: #FFFFFF;
+    transition: 0.3s;
+}
+
+.icosocial:hover{
+    color:#FF3C3C;
+}
+
+.bt0001{
+    background-color: #ffffff;
+    transition: 0.3s;
+}
+
+.bt0001:hover{
+    background-color: #FF3C3C;
+}
+.textinho-direita{
+    text-align: right!important;
+}
+
+.textinho-esquerda{
+    text-align: left!important;
+}
+
+.btclose{
+    color: white;
+}
+.btclose:hover{
+    color: white;
+}
+
+.feiltiago{
+    background-color: #4c4c4c;
+    color: #ffffff;
+}
