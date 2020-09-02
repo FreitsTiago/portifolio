@@ -223,6 +223,7 @@ EOT;
                                 <li>CSS</li>
                                 <li>JavaScript</li>
                                 <li>PHP</li>
+                                <li>Bootstrap</li>
                             </ul>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
